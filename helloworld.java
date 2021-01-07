@@ -1,5 +1,5 @@
-public class heeloworld{
+public class Helloworld{
    pbulic static void main(){
-   System.out.print("hello world");
+   System.out.println("hello world");
    }
 }   
