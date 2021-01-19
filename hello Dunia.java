@@ -1,4 +1,4 @@
-public class Helloworld{
+public class Hello Dunia{
    pbulic static void main(){
    System.out.println("hello world");
       System.out.println("editan baru");
